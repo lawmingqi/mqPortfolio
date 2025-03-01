@@ -11,9 +11,6 @@ import {
     redux,
     tailwind,
     nodejs,
-    expressjs,
-    dynamodb,
-    socketio,
     git,
     figma,
     docker,
@@ -93,18 +90,6 @@ import {
     {
       name: "Node JS",
       icon: nodejs,
-    },
-    {
-        name: "Express JS",
-        icon: expressjs,
-    },
-    {
-        name: "Dynamo DB",
-        icon: dynamodb,
-    },
-    {
-        name: "Socket IO",
-        icon: socketio,
     },
     {
       name: "Three JS",
@@ -215,14 +200,6 @@ import {
         {
           name: "react",
           color: "blue-text-gradient",
-        },
-        {
-          name: "dynamodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "socket.io",
-          color: "pink-text-gradient",
         },
       ],
       image: carrent,
