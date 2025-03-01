@@ -105,7 +105,7 @@ import {
     {
         name: "Socket IO",
         icon: socketio,
-    }
+    },
     {
       name: "Three JS",
       icon: threejs,
