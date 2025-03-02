@@ -26,9 +26,18 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import githubbies1 from '../assets/githubbies1.png';
+import githubbies2 from '../assets/githubbies2.png';
+import githubbies3 from '../assets/githubbies3.png';
+import githubbies4 from '../assets/githubbies4.png';
+
+import avizion1 from "../assets/avizion1.png";
+import avizion2 from "../assets/avizion2.png";
+import avizion3 from "../assets/avizion3.png";
+
+import vehiclesg1 from "../assets/vehiclesg1.png";
+import vehiclesg2 from "../assets/vehiclesg1.png";
+import vehiclesg3 from "../assets/vehiclesg1.png";
 
 export {
   logo,
@@ -56,7 +65,14 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  githubbies1,
+  githubbies2,
+  githubbies3,
+  githubbies4,
+  avizion1,
+  avizion2,
+  avizion3,
+  vehiclesg1,
+  vehiclesg2,
+  vehiclesg3,
 };
