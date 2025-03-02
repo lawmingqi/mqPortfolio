@@ -2,7 +2,6 @@ import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
-import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -26,6 +25,11 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import wushu from "./wushu.jpg";
+import photos from "./photos.jpg";
+import food from "./food.jpg";
+import movies from "./movies.jpg";
+
 import githubbies1 from '../assets/githubbies1.png';
 import githubbies2 from '../assets/githubbies2.png';
 import githubbies3 from '../assets/githubbies3.png';
@@ -36,15 +40,18 @@ import avizion2 from "../assets/avizion2.png";
 import avizion3 from "../assets/avizion3.png";
 
 import vehiclesg1 from "../assets/vehiclesg1.png";
-import vehiclesg2 from "../assets/vehiclesg1.png";
-import vehiclesg3 from "../assets/vehiclesg1.png";
+import vehiclesg2 from "../assets/vehiclesg2.png";
+import vehiclesg3 from "../assets/vehiclesg3.png";
 
 export {
   logo,
   backend,
   creator,
   mobile,
-  web,
+  wushu,
+  photos,
+  food,
+  movies,
   github,
   menu,
   close,
