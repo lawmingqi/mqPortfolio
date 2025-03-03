@@ -62,9 +62,12 @@ const Contact = () => {
         className="flex-[0.75] bg-[#eee1ca] p-8 rounded-2xl w-full max-w-[600px] mx-auto"
         variants={slideIn('left', "tween", 0.2, 1)}
       >
-        <p className={styles.sectionSubText}>Get in touch</p>
-        <h2 className={`text-[#7A2A3D] font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]}`}>Contact.</h2>
-
+      <p className={`${styles.sectionSubText} sm:text-[22px] text-[18px] md:text-[25px] lg:text-[28px]`}>
+        Get in touch
+      </p>
+      <h2 className={`text-[#7A2A3D] font-black md:text-[60px] sm:text-[50px] xs:text-[45px] text-[35px] lg:text-[70px]`}>
+        Contact.
+      </h2>
         <form ref={formRef} onSubmit={handleSubmit} className="mt-12 flex flex-col gap-8">
           <label className="flex flex-col">
             <span className="text-[#945353] font-medium mb-4">Your Name</span>

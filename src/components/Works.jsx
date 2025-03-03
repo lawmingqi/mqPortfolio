@@ -98,10 +98,14 @@ const ProjectCard = ({
 const Works = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} `}>My work</p>
-        <h2 className={`text-[#7A2A3D] font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]}`}>Projects.</h2>
-      </motion.div>
+    <motion.div variants={textVariant()}>
+      <p className={`${styles.sectionSubText} sm:text-[22px] text-[18px] md:text-[25px] lg:text-[28px]`}>
+        My work
+      </p>
+      <h2 className={`text-[#7A2A3D] font-black md:text-[60px] sm:text-[50px] xs:text-[45px] text-[35px] lg:text-[70px]`}>
+        Projects.
+      </h2>
+    </motion.div>
 
       <div className='w-full flex'>
         <motion.p
