@@ -27,7 +27,7 @@ const ProjectCard = ({
   };
 
   return (
-    <div className="bg-[#eee1ca] p-5 rounded-2xl sm:w-[360px] w-full shadow-card">
+    <div className="bg-[#eee1ca] p-5 rounded-2xl sm:w-[330px] w-full shadow-card">
       
       <div className="relative w-full h-[240px]">
         <img
