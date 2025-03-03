@@ -68,7 +68,7 @@ const About = () => {
         </div>
       </motion.div>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} font-bold`}>Little joys in life!🌹🤗</p>
+        <p className={`${styles.sectionSubText} font-bold mt-10`}>Little joys in life!🌹🤗</p>
 
         <p className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
         I don't always fix bugs... Sometimes, I close my laptop and remind myself that life has so many better things to offer.
