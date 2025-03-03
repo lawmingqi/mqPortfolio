@@ -44,10 +44,9 @@ const ProjectCard = ({
           >
             {/* Left arrow SVG */}
             <svg
-              className="icon text-white"
+              className="icon text-white tranform rotate-180"
               viewBox="0 0 24 24"
               fill="#7A2A3D"
-              transform="rotate(180)"
               width={36} 
               height={36} 
             >
