@@ -36,7 +36,7 @@ const ProjectCard = ({
           className="w-full h-full object-contain rounded-2xl" 
         />
         <div className="absolute top-0 right-0 flex justify-end items-start z-20">
-          <Button sourceLink={source_code_link} />
+          <Button sourceLink={source_code_link}/>
         </div>
         <div className="absolute inset-0 flex justify-center items-center">
           <div
